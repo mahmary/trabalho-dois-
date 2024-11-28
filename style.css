@@ -63,3 +63,13 @@ body {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
     
     }
+    footer{
+        padding: 15px;
+    }
+    .rodepé{
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    
+    
+    }
